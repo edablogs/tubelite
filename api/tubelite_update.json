@@ -1,7 +1,9 @@
 {
-	"status":0,
+	"status":1,
 	"response": {
 		"version":1.0,
-		"changes":"test"
+		"versionCode":2,
+		"changes":"test",
+		"url":"https://tubelite.learnpainless.com/"
 	}
 }
