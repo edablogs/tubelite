@@ -1,10 +1,40 @@
 * {
   box-sizing: border-box; }
+@font-face {
+font-family: 'Caviar Dreams';
+font-style: normal;
+font-weight: normal;
+src: local('Caviar Dreams'), url('CaviarDreams.woff') format('woff');
+}
+
+
+@font-face {
+font-family: 'Caviar Dreams Bold Italic';
+font-style: normal;
+font-weight: normal;
+src: local('Caviar Dreams Bold Italic'), url('CaviarDreams_BoldItalic.woff') format('woff');
+}
+
+
+@font-face {
+font-family: 'Caviar Dreams Bold';
+font-style: normal;
+font-weight: normal;
+src: local('Caviar Dreams Bold'), url('CaviarDreams_Bold.woff') format('woff');
+}
+
+
+@font-face {
+font-family: 'Caviar Dreams Italic';
+font-style: normal;
+font-weight: normal;
+src: local('Caviar Dreams Italic'), url('CaviarDreamsItalic.woff') format('woff');
+}
 
 body {
   padding: 0;
   margin: 0;
-  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "'Caviar Dreams';font-weight:normal";
   font-size: 16px;
   line-height: 1.5;
   color: #606c71; }
