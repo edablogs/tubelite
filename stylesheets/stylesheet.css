@@ -4,7 +4,7 @@
 font-family: 'Caviar Dreams';
 font-style: normal;
 font-weight: normal;
-src: local('Caviar Dreams'), url('CaviarDreams.woff') format('woff');
+src: local('Caviar Dreams'), url('font/CaviarDreams.woff') format('woff');
 }
 
 
@@ -12,7 +12,7 @@ src: local('Caviar Dreams'), url('CaviarDreams.woff') format('woff');
 font-family: 'Caviar Dreams Bold Italic';
 font-style: normal;
 font-weight: normal;
-src: local('Caviar Dreams Bold Italic'), url('CaviarDreams_BoldItalic.woff') format('woff');
+src: local('Caviar Dreams Bold Italic'), url('font/CaviarDreams_BoldItalic.woff') format('woff');
 }
 
 
@@ -20,7 +20,7 @@ src: local('Caviar Dreams Bold Italic'), url('CaviarDreams_BoldItalic.woff') for
 font-family: 'Caviar Dreams Bold';
 font-style: normal;
 font-weight: normal;
-src: local('Caviar Dreams Bold'), url('CaviarDreams_Bold.woff') format('woff');
+src: local('Caviar Dreams Bold'), url('font/CaviarDreams_Bold.woff') format('woff');
 }
 
 
@@ -28,7 +28,7 @@ src: local('Caviar Dreams Bold'), url('CaviarDreams_Bold.woff') format('woff');
 font-family: 'Caviar Dreams Italic';
 font-style: normal;
 font-weight: normal;
-src: local('Caviar Dreams Italic'), url('CaviarDreamsItalic.woff') format('woff');
+src: local('Caviar Dreams Italic'), url('font/CaviarDreamsItalic.woff') format('woff');
 }
 
 body {
