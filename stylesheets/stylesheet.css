@@ -44,7 +44,9 @@ a {
   text-decoration: none; }
   a:hover {
     text-decoration: underline; }
-
+h3{
+	font-family: "Caviar Dreams Bold";
+}
 .btn {
   display: inline-block;
   margin-bottom: 1rem;
