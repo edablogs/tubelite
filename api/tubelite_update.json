@@ -2,7 +2,7 @@
 	"status":1,
 	"response": {
 		"version":1.0,
-		"versionCode":3,
+		"versionCode":4,
 		"changes":"Change Logs :\n\n1. display video/audio size in format list.\n2. added cache manager.",
 		"url":"https://sites.google.com/site/androidplacez/downloads/TubeLite_1.3b.apk?attredirects=0&d=1"
 	}
