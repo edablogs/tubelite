@@ -3,7 +3,7 @@
 	"response": {
 		"version":1.0,
 		"versionCode":2,
-		"changes":"Change Logs :\n\n1. Added cache manager.\n2. Added theme option.\n1. Added cache manager.\n2. Added theme option.\n1. Added cache manager.\n2. Added theme option.\n1. Added cache manager.\n2. Added theme option.\n1. Added cache manager.\n2. Added theme option Added theme option Added theme option Added theme option Added theme option Added theme option Added theme option Added theme option.\n1. Added cache manager.\n2. Added theme option.\n1. Added cache manager.\n2. Added theme option.\n1. Added cache manager.\n2. Added theme option.\n1. Added cache manager.\n2. Added theme option.\n1. Added cache manager.\n2. Added theme option.\n1. Added cache manager.\n2. Added theme option.",
+		"changes":"Change Logs :\n\n1. display video/audio size in format list.\n2. added cache manager.",
 		"url":"https://github.com/edablogs/tubelite/raw/gh-pages/apk/TubeLite_Beta.apk"
 	}
 }
