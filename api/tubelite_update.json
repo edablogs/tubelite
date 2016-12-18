@@ -1,7 +1,7 @@
 {
 	"status":1,
 	"response": {
-		"version":"1.3b",
+		"version":1.0,
 		"versionCode":3,
 		"changes":"Change Logs :\n\n1. display video/audio size in format list.\n2. added cache manager.",
 		"url":"https://github.com/edablogs/tubelite/raw/gh-pages/apk/TubeLite_Beta.apk"
